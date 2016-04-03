@@ -1,0 +1,5 @@
+﻿  ConsoleApplication4.cpp
+ConsoleApplication4.cpp(25): warning C4302: '<function-style-cast>': truncation from 'FILE *' to 'char'
+ConsoleApplication4.cpp(29): error C2228: left of '.append' must have class/struct/union
+  ConsoleApplication4.cpp(29): note: type is 'FILE *'
+  ConsoleApplication4.cpp(29): note: did you intend to use '->' instead?
